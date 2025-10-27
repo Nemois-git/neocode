@@ -4,6 +4,8 @@
 
 This Zsh script provides a command-line interface to automate common `xcodebuild` tasks for iOS/macOS projects. It simplifies the process of building, running, cleaning, and listing targets for both simulators and physical devices.
 
+> I created this using Google Gemini. My goal was to develop a command-line interface (CLI) application that is easy to use.
+
 ## ⚠️ Gemini AI-Assisted Code Disclaimer
 
 Please be aware that this script was developed with significant assistance from Gemini. While it aims to be a helpful utility, it may contain instabilities, bugs, or suboptimal logic.
